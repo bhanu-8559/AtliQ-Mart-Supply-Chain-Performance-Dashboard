@@ -18,7 +18,7 @@ Dashboard Development: Create an interactive dashboard to monitor 'On-time Deliv
 Insights Generation: Provide actionable insights to identify trends, patterns, and areas for improvement beyond the specified metrics and stakeholder requirements.
 
 # Task Details:
-As Peter Pandey, your primary tasks for this project include:
+This project include:
 
 Metric Creation: Develop metrics as per the provided metrics list to track the 'On-time' and 'In Full' delivery service levels for all customers daily.
 Dashboard Creation: Design and develop an intuitive dashboard based on the stakeholder requirements provided during the business review meeting.
@@ -30,4 +30,4 @@ Insights Report: A comprehensive report highlighting additional insights, trends
 
 
 # Conclusion:
-The AtliQ Mart Supply Chain Analytics Project presents an opportunity to enhance customer satisfaction and prepare for expansion by addressing service issues through data-driven insights. As Peter Pandey, your role in creating metrics, developing a dashboard, and providing actionable insights is crucial in improving 'On-time' and 'In Full' delivery service levels. Let's work together to ensure AtliQ Mart meets its service level targets and achieves its expansion goals successfully.
+The AtliQ Mart Supply Chain Analytics Project presents an opportunity to enhance customer satisfaction and prepare for expansion by addressing service issues through data-driven insights. In creating metrics, developing a dashboard, and providing actionable insights is crucial in improving 'On-time' and 'In Full' delivery service levels. Let's work together to ensure AtliQ Mart meets its service level targets and achieves its expansion goals successfully.
