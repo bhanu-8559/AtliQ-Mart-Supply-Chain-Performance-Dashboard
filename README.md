@@ -4,7 +4,7 @@
 Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiY2NkMTE3YjYtOTE0OC00NGU3LTk2MDItODNjNjhiOThhYWQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
-Welcome to the readme file for the AtliQ Mart Supply Chain Analytics Project. This project focuses on addressing service issues faced by AtliQ Mart, a growing FMCG manufacturer, to ensure customer satisfaction and prepare for expansion into new cities. As Peter Pandey, the newly onboarded data analyst in the supply chain team, your task is to create metrics, develop a dashboard, and provide relevant insights to track and improve the 'On-time' and 'In Full' delivery service level for all customers.
+Welcome to the readme file for the AtliQ Mart Supply Chain Analytics Project. This project focuses on addressing service issues faced by AtliQ Mart, a growing FMCG manufacturer, to ensure customer satisfaction and prepare for expansion into new cities. My task is to create metrics, develop a dashboard, and provide relevant insights to track and improve the 'On-time' and 'In Full' delivery service level for all customers.
 
 # Project Overview:
 AtliQ Mart aims to resolve service issues related to 'On-time' and 'In Full' delivery of essential products to key customers before expanding into new cities. 
